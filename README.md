@@ -1,7 +1,7 @@
 # Mapeamento e Monitoramento de Pontos de Descarte Irregular de Lixo
 
 **Integrantes da Equipe:**
-- Maycon Andrade – Matrícula 2323820
+- Maycon Andrade – 2323820
 - Amanda Alves Eloi - 2326260
 - Esther de Souza Ramalho - 2313582
 - Marcos Aurélio Sousa de Carvalho - 2418803 
