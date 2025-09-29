@@ -30,6 +30,6 @@ Arquitetura client-server com separação de camadas: Frontend (React para web, 
 
 ## Integrantes da Equipe
 - Esther de Souza Ramalho (Matrícula:2313582 ).
-- Amanda Alves Eloi (Matrícula: ).
+- Amanda Alves Eloi (Matrícula:2326260 ).
 - Maycon Barroso Andrade (Matrícula:2323820 ).
-- Marcos Aurélio Sousa de Carvalho (Matrícula: ).
+- Marcos Aurélio Sousa de Carvalho (Matrícula:2418803).
