@@ -8,3 +8,4 @@
 - User 1:N Report (um usuário pode criar múltiplos reports).
 
 ## Diagrama ER
+![Diagrama ER](diagrama_er.png)
