@@ -13,7 +13,7 @@ Arquitetura MVC com camadas separadas para escalabilidade e manutenção.
 - JWT para autenticação e autorização.
 
 ## Diagrama
-![Diagrama de Arquitetura](diagrama_arquitetura.png)
+![Diagrama de Arquitetura](Diagrama_arquitetura.png)
 
 ## Decisões Técnicas
 - Node.js por ser leve e eficiente para APIs.
