@@ -1,5 +1,11 @@
 # Mapeamento e Monitoramento de Pontos de Descarte Irregular de Lixo
 
+**Integrantes da Equipe:**
+- Maycon Andrade – Matrícula 2323820
+- Amanda Alves Eloi - 2326260
+- Esther de Souza Ramalho - 2313582
+- Marcos Aurélio Sousa de Carvalho - 2418803 
+
 ## Problema Abordado e Justificativa
 Em Fortaleza, bairros como Pirambu, Barra do Ceará e Vicente Pinzón sofrem com descarte irregular de lixo, causando poluição e riscos à saúde. Este sistema permite que cidadãos reportem pontos críticos via app móvel ou web, ajudando autoridades na gestão ambiental. Alinha-se ao ODS 11 (meta 11.6: reduzir impactos ambientais negativos).
 
